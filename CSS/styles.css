@@ -1,0 +1,137 @@
+body {
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+h1 {
+    margin: auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 562.5%;
+    color: #66BFBF;
+    line-height: 2;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.sub-header {
+    position: relative;
+    bottom: 80px;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+
+
+.top-container {
+    background-color: #EAF6F6;
+    padding-top: 100px;
+}
+
+h2 {
+    font-size: 40px;
+    color: #66BFBF;
+    font-weight: normal;
+}
+
+a {
+    color: #11999E;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.html-image {
+    float: left;
+    margin-right: 30px;
+}
+
+.css-image {
+    float: right;
+    margin-left: 30px;
+}
+
+.avatar-image {
+    padding-top: 30px;
+}
+
+.profile {
+    color: #40514E;
+}
+
+
+.bottom-container {
+    margin-top: 10px;
+    padding-bottom: 2px;
+    background-color: #66BFBF;
+}
+
+.spodek-text {
+    padding-top: 30px;
+    color: #EAF6F6;
+}
+
+.linkedin {
+    position: relative;
+    color: #11999E;
+    top: 20px;
+    right: 20px;
+}
+
+.twitter {
+    position: relative;
+    top: 20px;
+    color:#11999E;
+}
+
+.github {
+    position: relative;
+    top: 20px;
+    color:#11999E;
+    left: 20px;
+}
+
+.btn {
+    
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 20;
+    -moz-border-radius: 20;
+    border-radius: 20px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+      
+}
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
+
+.contact-text {
+    padding-bottom: 30px;
+}
+
+.contact-me {
+    margin-bottom: 30px;
+}
